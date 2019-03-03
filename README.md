@@ -7,6 +7,8 @@ Spilarinn getur skotið óvini og hreyft sig um allan völlinn en bara skotið u
 
 ### Stýringar
 Hreyfingar: örfatakkar
+
 Fara hægar: Shift
+
 Skjóta: z
 
