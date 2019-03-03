@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Skotleikur 
 
-You can use the [editor on GitHub](https://github.com/birkirarndal/birkirarndal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Leikurinn gengur út á það að skjóta óvini sem byrtast efst á skjánum og færast svo niður.
+Ef óvinur snertir spilarann þá tapar sá sem spilar. Ef óvinur kemst niður fyrir völlinn fær spilarinn -3 stig og ef spilarinn er með -10 stig þá tapar hann.
+Spilarinn getur skotið óvini og hreyft sig um allan völlinn en bara skotið upp. Spilarinn fær 1 stig fyrir að skjóta óvin.
+Þegar að Spilarinn fær 10 stig vinnur sá sem spilar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Stýringar
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
