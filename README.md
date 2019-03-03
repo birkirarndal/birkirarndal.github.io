@@ -12,3 +12,5 @@ Fara hægar: Shift
 
 Skjóta: z
 
+### Leikur
+https://birkirarndal.github.io/Verkefni4/
